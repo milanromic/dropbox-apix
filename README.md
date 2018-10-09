@@ -1,6 +1,6 @@
 # Dropbox API wrapper
 
-Dropbox-APIx is [Dropbox](https://www.dropbox.com/) API wrapper with simple upload and share options . It should be used in applications on server side for easy upload on Dropbox and automatic share it. Using this wrapper in MeteorJS framework is also supported.
+Dropbox-APIx is [Dropbox](https://www.dropbox.com/) API wrapper with simple upload and share options. It should be used in applications on server side for easy upload on Dropbox and automatic share it. Using this wrapper in MeteorJS framework is also supported.
 
 A simple explanation will be: Call upload method with some parameters and content of a file, it will upload a file and return shared link which could be stored somewhere (in database). For detailed explanation, please read bellow.
 

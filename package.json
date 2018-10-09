@@ -1,24 +1,28 @@
 {
-  "name": "dropbox-apix",
-  "version": "0.0.3",
-  "description": "Dropbox API wrapper",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "dropbox",
-    "dropbox-api",
-	"dropbox-wrapper",
-    "meteor",
-    "meteor-api",
-    "webstorage",
-    "storage"
-  ],
-  "author": "Milan Romic",
-  "license": "MIT",
-  "dependencies": {
-    "url-parse": "^1.4.3",
-    "xmlhttprequest": "^1.8.0"
-  }
+	"name": "dropbox-apix",
+	"version": "0.0.3",
+	"description": "Dropbox API wrapper",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"dropbox",
+		"dropbox-api",
+		"dropbox-wrapper",
+		"meteor",
+		"meteor-api",
+		"webstorage",
+		"storage"
+	],
+	"author": "Milan Romic",
+	"license": "MIT",
+	"dependencies": {
+		"url-parse": "^1.4.3",
+		"xmlhttprequest": "^1.8.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/milanromic/dropbox-apix.git"
+	}
 }

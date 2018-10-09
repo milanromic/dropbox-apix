@@ -1,6 +1,6 @@
 {
 	"name": "dropbox-apix",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"description": "Dropbox API wrapper",
 	"main": "index.js",
 	"scripts": {
